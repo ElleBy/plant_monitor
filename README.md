@@ -1,5 +1,11 @@
 # Arduino_Plant_Monitor
 
-Moisture reader only contains functionality to read the mositure levels from the 2 wires. Used to get an idea of the levels for dry and wet soil.
+## Moisture reader 
+Not in use
+Contains functionality to read the mositure levels from 2 wires.
 
-Plant monitor contains all the code, still being worked on and improved but currently works.
+## Plant monitor
+Contains the main body of code which is being worked on, at the moment it only gets the moisture levels.
+
+Moisture sensor being used is https://www.az-delivery.de/en/products/feuchtigkeitssensor-modul
+
